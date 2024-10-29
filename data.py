@@ -10,13 +10,13 @@
 
 # from ultralytics import YOLO
 # import os
-# from IPython.display import display, Image
-# from IPython import display
+# from Python.display import display, Image
+# from Python import display
 # display.clear_output()
 # Image(filename=f'runs/detect/train/confusion_matrix.png', width=600)
 
-import glob
-from IPython.display import Image, display
-for image_path in glob.glob (f'runs/detect/predict3/*.jpg'):
-  display (Image(filename=image_path, height=200))
-  print("\n")
+# import glob
+# from IPython.display import Image, display
+# for image_path in glob.glob (f'runs/detect/predict3/*.jpg'):
+#   display (Image(filename=image_path, height=200))
+#   print("\n")

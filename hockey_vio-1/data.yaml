@@ -8,6 +8,6 @@ roboflow:
   url: https://universe.roboflow.com/arsalan-zmt7j/hockey_vio/dataset/1
   version: 1
   workspace: arsalan-zmt7j
-test: "F:/YoloV8/hockey_vio-1/test/images"
-train: "F:/YoloV8/hockey_vio-1/train/images"
-val: "F:/YoloV8/hockey_vio-1/valid/images"
+test: "D:/YoloV8/hockey_vio-1/test/images"
+train: "D:/YoloV8/hockey_vio-1/train/images"
+val: "D:/YoloV8/hockey_vio-1/valid/images"

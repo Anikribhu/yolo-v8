@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 # Load a pretrained YOLOv8n model
-model = YOLO("F:/YoloV8/runs/detect/train/weights/best.pt")
+model = YOLO("D:/YoloV8/runs/detect/train2/weights/best.pt")
 
 # Run inference on 'bus.jpg' with arguments
-model.predict("https://www.coe.int/documents/61989255/67584870/Physical_790887175.jpg/9d511894-eaf6-688e-9eab-51b43dffb554?t=1591372186000", save=True, show =True, imgsz=320, conf=0.5)
+model.predict("https://wordpress.wbur.org/wp-content/uploads/2014/03/0317_fan-violence_cog-1000x547.jpg", save=True, show =True, imgsz=640, conf=0.5)
