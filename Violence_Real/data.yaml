@@ -1,0 +1,12 @@
+test: "D:/YoloV8/Violence_Real/test/images"
+train: "D:/YoloV8/Violence_Real/train/images"
+val: "D:/YoloV8/Violence_Real/valid/images"
+nc: 1
+names: ['violence']
+
+roboflow:
+  workspace: violentnonviolent
+  project: violence_real-kxnwr
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/violentnonviolent/violence_real-kxnwr/dataset/1

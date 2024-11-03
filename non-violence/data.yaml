@@ -1,0 +1,13 @@
+test: "D:/YoloV8/non-violence/test/images"
+train: "D:/YoloV8/non-violence/train/images"
+val: "D:/YoloV8/non-violence/valid/images"
+
+nc: 1
+names: ['non-violence']
+
+roboflow:
+  workspace: supratik
+  project: violence-non-violence-vwswe
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/supratik/violence-non-violence-vwswe/dataset/1
