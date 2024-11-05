@@ -1,0 +1,13 @@
+test: "D:/YoloV8/non-violence-2/test/images"
+train: "D:/YoloV8/non-violence-2/train/images"
+val: "D:/YoloV8/non-violence-2/valid/images"
+
+nc: 1
+names: ['non-violence']
+
+roboflow:
+  workspace: tanmay-works
+  project: nonviolencetanmaydataset
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tanmay-works/nonviolencetanmaydataset/dataset/1
