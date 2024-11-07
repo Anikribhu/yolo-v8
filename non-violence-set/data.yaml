@@ -1,0 +1,13 @@
+test: "D:/YoloV8/non-violence-set/test/images"
+train: "D:/YoloV8/non-violence-set/train/images"
+val: "D:/YoloV8/non-violence-set/valid/images"
+
+nc: 1
+names: ['non-violence']
+
+roboflow:
+  workspace: violentnonviolent
+  project: violence_nonviolence
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/violentnonviolent/violence_nonviolence/dataset/1

@@ -1,0 +1,13 @@
+test: "D:/YoloV8/violence/test/images"
+train: "D:/YoloV8/violence/train/images"
+val: "D:/YoloV8/violence/valid/images"
+
+nc: 1
+names: ['violence']
+
+roboflow:
+  workspace: colllegeproject
+  project: violance_8
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/colllegeproject/violance_8/dataset/2
