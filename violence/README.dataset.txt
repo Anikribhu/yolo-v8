@@ -1,6 +1,6 @@
-# violance_8 > 2024-11-05 4:39am
-https://universe.roboflow.com/colllegeproject/violance_8
+# violence > 2024-11-09 10:00am
+https://universe.roboflow.com/yolo-dxcbv/violence-7rjal
 
 Provided by a Roboflow user
-License: CC BY 4.0
+License: Public Domain
 
